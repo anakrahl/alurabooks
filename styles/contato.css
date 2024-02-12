@@ -33,7 +33,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--azul);
-    background: url('/icons/Contato.svg') no-repeat;
+    background: url('icons/Contato.svg') no-repeat;
     background-position: 0.5em;
 }
 
